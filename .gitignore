@@ -1,0 +1,93 @@
+# ----------------------------
+# Env / secrets
+# ----------------------------
+**/.env
+**/.env.* 
+!**/.env.example
+
+# Explicitly ignore local overrides
+**/.env.local
+**/.env.*.local
+
+# ----------------------------
+# Logs
+# ----------------------------
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ----------------------------
+# Node / Vite / React
+# ----------------------------
+node_modules
+**/node_modules
+
+dist
+**/dist
+dist-ssr
+**/dist-ssr
+
+.vite
+**/.vite
+
+coverage
+**/coverage
+
+# TypeScript build info
+*.tsbuildinfo
+
+# ----------------------------
+# React Native / Expo
+# ----------------------------
+.expo
+**/.expo
+.expo-shared
+**/.expo-shared
+
+# Expo dev/build artifacts
+**/web-build
+**/android
+**/ios
+
+# RN tooling / caches
+**/.metro-health-check*
+**/.react-native*
+**/.rnc
+
+# ----------------------------
+# Go
+# ----------------------------
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Go build output
+bin/
+**/bin
+**/*.test
+
+# Go workspace (rare but safe)
+go.work
+go.work.sum
+
+# ----------------------------
+# OS / Editor
+# ----------------------------
+.DS_Store
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# VS Code (keep extensions.json)
+.vscode/*
+!.vscode/extensions.json
