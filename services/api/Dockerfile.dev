@@ -1,0 +1,21 @@
+FROM golang:1.25-alpine
+
+WORKDIR /app
+
+# Install air for hot reloading and ensure it's in PATH
+RUN go install github.com/air-verse/air@latest
+ENV PATH="${PATH}:/root/go/bin"
+
+# Copy go mod files
+COPY go.mod ./
+RUN go mod download
+
+# Copy source code
+COPY . .
+
+# Expose port
+EXPOSE 8080
+
+# Use air for hot reloading (default config location)
+CMD ["air"]
+
