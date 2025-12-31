@@ -73,6 +73,13 @@ bin/
 **/bin
 **/*.test
 
+# Common temp build outputs (often from scripts/hot-reload)
+tmp/
+**/tmp
+/tmp/
+**/tmp/*
+**/tmp/**
+
 # Go workspace (rare but safe)
 go.work
 go.work.sum
