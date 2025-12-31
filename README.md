@@ -6,11 +6,17 @@
 
 ---
 
-## Screenshots (coming soon)
+## Design Screenshots
 
-### Web — Map + Preview Cards
+### Web
 
-![Web Map Page Placeholder](docs/images/web-map-placeholder.png)
+![Web Design](docs/images/design-desktop.png)
+&nbsp;
+&nbsp;
+
+### Mobile
+
+![Mobile Design](docs/images/design-mobile.png)
 
 ---
 
