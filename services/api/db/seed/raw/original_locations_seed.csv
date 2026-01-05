@@ -1,0 +1,47 @@
+id,name,description,state,latitude,longitude,category_guess
+loc001,Al Capone's Grave,"""Buried in a family plot at Mt. Caramel Cemetery in Hillside, Illinois, lies one of America's most infamous gangsters, Al Capone.""",IL,41.851089,-87.90397,cryptid
+loc002,Resurrection Mary Cemetery,"A phantom hitchhiker said to vanish near Resurrection Cemetery, often spotted along Archer Avenue late at night.",IL,41.763889,-87.768611,ghost
+loc003,Bachelor's Grove Cemetery,"An abandoned cemetery known for apparitions, floating lights, and ghostly figures captured in photographs.",IL,41.651667,-87.881944,ghost
+loc004,St. James at Sag Bridge,"A historic church rumored to be a portal to hell, with strange lights and unexplained sounds reported by visitors.",IL,41.682222,-87.904444,urban_legend
+loc005,The Bell Witch Cave,"Home to one of America's most famous hauntings, involving poltergeist activity and eerie voices.",TN,36.393611,-87.536389,ghost
+loc006,The Myrtles Plantation,A former plantation said to be haunted by the spirits of enslaved people and a woman named Chloe.,LA,30.837778,-91.045278,ghost
+loc007,Eastern State Penitentiary,"A former prison known for violent history and reported shadow figures, echoes, and cell door sounds.",PA,39.963611,-75.172222,abandoned
+loc008,The Stanley Hotel,"The inspiration for Stephen King's The Shining, with reports of music, laughter, and apparitions.",CO,40.361389,-105.521667,ghost
+loc009,Winchester Mystery House,"A sprawling mansion built continuously to appease spirits, filled with staircases to nowhere.",CA,37.318333,-121.950833,urban_legend
+loc010,Jerome Grand Hotel,"Once a hospital, now a hotel where guests report ghostly nurses and phantom footsteps.",AZ,34.748333,-112.113611,ghost
+loc011,Trans-Allegheny Lunatic Asylum,"A massive abandoned asylum known for reported screams, shadow people, and lingering energy.",WV,39.281389,-80.344444,abandoned
+loc012,The Goatman's Bridge,"A bridge said to be haunted by a half-man, half-goat entity that appears after dark.",TX,33.285556,-97.010833,cryptid
+loc013,Sloss Furnaces,An abandoned ironworks with reports of ghostly workers and unexplained accidents.,AL,33.518611,-86.812222,abandoned
+loc014,The Queen Mary,A retired ocean liner rumored to house spirits of former passengers and crew.,CA,33.752778,-118.189167,ghost
+loc015,Bellamy Bridge,An old bridge where a bride is said to search endlessly for her lost groom.,FL,30.884444,-85.595278,ghost
+loc016,The Lizzie Borden House,"The site of infamous axe murders, now a bed and breakfast with paranormal reports.",MA,41.682778,-71.156389,urban_legend
+loc017,Hoia Baciu Forest,"A forest known for UFO sightings, electronic malfunctions, and disappearances.",IL,41.85,-87.65,urban_legend
+loc018,The Whaley House,A historic home with sightings of former residents and unexplained noises.,CA,32.752222,-117.196944,ghost
+loc019,Devil's Tramping Ground,"A barren circle where nothing grows, said to be where the devil walks at night.",NC,35.650278,-79.420833,urban_legend
+loc020,The Sallie House,A house associated with violent paranormal activity believed to involve a spirit named Sallie.,KS,39.563889,-95.121389,ghost
+loc021,LaLaurie Mansion,A historic mansion infamous for cruelty and ghost sightings tied to its dark past.,LA,29.958611,-90.064722,ghost
+loc022,Gettysburg Battlefield,"The site of one of the bloodiest battles of the Civil War, known for apparitions of soldiers and phantom gunfire.",PA,39.830929,-77.231095,ghost
+loc023,Waverly Hills Sanatorium,"A former tuberculosis hospital infamous for shadow figures, voices, and unexplained phenomena.",KY,38.147222,-85.897222,abandoned
+loc024,The Villisca Axe Murder House,"A small home where a brutal unsolved axe murder occurred, now associated with disturbing paranormal activity.",IA,40.928333,-94.975833,urban_legend
+loc025,Marfa Lights,"Unexplained glowing orbs that appear in the desert, baffling observers for generations.",TX,30.309444,-104.020833,urban_legend
+loc026,Point Pleasant TNT Area,An abandoned military site tied to sightings of the Mothman and other strange occurrences.,WV,38.844444,-82.137778,cryptid
+loc027,The Devil's Tower,A massive rock formation surrounded by legends of supernatural forces and strange energies.,WY,44.590278,-104.715278,urban_legend
+loc028,The Amityville House,A suburban home linked to infamous murders and alleged demonic hauntings.,NY,40.669444,-73.417222,urban_legend
+loc029,The Crescent Hotel,A historic hotel said to house spirits from its time as a hospital and resort.,AR,36.401111,-93.7375,ghost
+loc030,Salem Witch House,A surviving structure connected to the Salem witch trials and lingering supernatural lore.,MA,42.521389,-70.896667,urban_legend
+loc031,The Old Charleston Jail,A former jail where inmates reportedly left behind restless spirits and eerie sounds.,SC,32.783611,-79.932222,ghost
+loc032,Pine Barrens,A vast forest known for legends of the Jersey Devil and unexplained disappearances.,NJ,39.8,-74.6,cryptid
+loc033,The Stanley R. Mickelsen Safeguard Complex,An abandoned Cold War missile defense site with reports of strange noises and sightings.,ND,48.568056,-97.187222,abandoned
+loc034,The Lemp Mansion,A historic mansion associated with tragic deaths and recurring ghost sightings.,MO,38.594444,-90.238611,ghost
+loc035,The Devil's Kettle,"A waterfall where objects disappear mysteriously, fueling local legends.",MN,47.995833,-91.476389,urban_legend
+loc036,The Sorrel-Weed House,A historic home rumored to be haunted by former residents and unexplained footsteps.,GA,32.081667,-81.090833,ghost
+loc037,The Riddle House,A former funeral home associated with shadow figures and paranormal disturbances.,FL,26.705278,-80.036667,ghost
+loc038,The Overtoun Bridge,A bridge infamous for unexplained animal behavior and tragic legends.,NY,42.652778,-73.756389,urban_legend
+loc039,The Enchanted Forest,"A remote area known for strange lights, disorientation, and missing time reports.",CO,39.550051,-105.782067,urban_legend
+loc040,The Brown Lady of Raynham Hall,"A ghostly figure said to roam a historic estate, often captured in photographs.",VA,37.2275,-77.4025,ghost
+loc041,The Devil's Backbone,A stretch of land where travelers report disembodied voices and ghostly lights.,VA,38.029167,-78.725833,urban_legend
+loc042,The Palmer House Hotel,A grand hotel with a long history of reported apparitions and unexplained sounds.,IL,41.880556,-87.627778,ghost
+loc043,The Bell Witch Farm,Land associated with the infamous Bell Witch haunting and lingering paranormal claims.,TN,36.403889,-87.538611,ghost
+loc044,The Old Alton Bridge,"A bridge known locally as Goatman's Bridge, tied to violent legends and sightings.",TX,33.286111,-97.010278,cryptid
+loc045,The Devil's Chair,"A stone chair said to be cursed, bringing misfortune to those who sit in it.",FL,28.397222,-81.401667,urban_legend
+loc046,The Moonville Tunnel,An abandoned railroad tunnel associated with ghostly lantern lights and apparitions.,OH,39.444444,-82.179444,abandoned
