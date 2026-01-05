@@ -25,6 +25,10 @@ migrate-up:
 migrate-down:
 	goose -dir $(GOOSE_DIR) postgres "$(DB_URL)" down
 
+# Seed the database
+seed:
+	docker compose -f $(COMPOSE_FILE) exec -T postgres psql -U $(POSTGRES_USER) -d $(POSTGRES_DB) -f /seed/seed.sql
+
 # Start the docker compose stack
 up:
 	docker compose -f $(COMPOSE_FILE) up -d
